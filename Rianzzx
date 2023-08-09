@@ -40,8 +40,8 @@
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/riycoders/YoshinoBot.git
-cd RIANZZXBot
+git clone https://github.com/riycoders/RianzzxBot.git
+cd RanzzxBot
 pkg install yarn
 yarn
 node index.js --qr (jika ingin menggunakan kode qr atau 2 hp)
